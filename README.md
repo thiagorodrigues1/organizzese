@@ -1,4 +1,4 @@
-# API Organizze
+# My Finance Organizze Scripts
 
 ## O que é o Organizze?
 O Organizze é um aplicativo de gestão financeira para celular/web.
